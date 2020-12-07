@@ -39,14 +39,17 @@ div li {
 }
 .grid1 {
   grid-column: 1/2;
+  border-right: 2px solid rgb(177, 173, 173);
+  padding: 10px;
+  margin-top: 3%;
 }
 .grid2 {
   grid-column: 2/3;
+  padding: 10px;
 }
 /* body of blog */
 #root {
   text-align: center;
-  /* grid-template-rows: 50%; */
 }
 .blog-image {
   width: 50%;
