@@ -1,10 +1,10 @@
 # blogRendering
 
 1.Title:\
-BLOG RENDERING\
+BLOG RENDERING
 
 2.Description:\
-In blog rendering we aim to fetch data using the links but without changing the main link address.This gives us the describtion of various blogs on just few clicks.also displays relaed links to the main link content that is been currently displayed.\
+In blog rendering we aim to fetch data using the links but without changing the main link address.This gives us the describtion of various blogs on just few clicks.also displays relaed links to the main link content that is been currently displayed.
 
 3.Demo:
 This is the demo link to view the program output:-
