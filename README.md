@@ -39,4 +39,4 @@ g.font style
 -imported related content from data and exported to the main page.
 
 7.Challanges faced:\
--Rendering related links data without changing main link address. (status:unsolved)
+-Rendering related links data without changing main link address. (status:solved)
