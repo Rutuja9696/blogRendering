@@ -13,7 +13,7 @@ https://rutuja9696.github.io/blogRendering/blog/
 4.Technologies Used:\
 -HTML\
 -css\
--javascrpit
+-javascrpit (async JS)
 
 5.Technical Description :\
 Following tags and stylings were used to built this program:\
@@ -33,10 +33,10 @@ e.font size\
 f.padding\
 g.font style
 
-6.Rndering data:\
+6.Rendering data:\
 -imported image from data and exported to the main page.\
 -imported title from data and exported to the main page.\
 -imported related content from data and exported to the main page.
 
 7.Challanges faced:\
--Rendering related links data without changing main link address (status:unsolved)
+-Rendering related links data without changing main link address. (status:unsolved)
