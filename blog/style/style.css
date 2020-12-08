@@ -28,7 +28,7 @@ div li {
   color: black;
   justify-content: space-evenly;
   margin: 0;
-  padding: 20px;
+  padding: 0px 20px;
   align-items: center;
   text-decoration: none;
   font-size: 15px;
@@ -98,3 +98,14 @@ hr {
   padding: 30px;
   justify-content: space-between;
 }
+/* @media (width: 768px) {
+  .contents {
+    grid-template-columns: 100%;
+  }
+  .grid1 {
+    grid-row: 70%;
+  }
+  .grid2 {
+    grid-row: 30%;
+  }
+} */
